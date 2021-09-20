@@ -1,0 +1,5 @@
+scriptpath () {
+  dirname $(which "${1}")
+}
+
+source $(scriptpath ${0})/prompt_setup.sh
