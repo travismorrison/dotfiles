@@ -1,4 +1,4 @@
 # travbot
 personal zsh configs
 
-Add `source /path/to/travbot/.rc` to `~/.zshrc` and prosper.
+Add `source /path/to/dotfiles/.rc` to `~/.zshrc` and prosper.
